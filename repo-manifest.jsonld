@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tortoise/aerich/commit/6333068e09a3f14b45699487846714de525c735e",
       "git:hexsha": "6333068e09a3f14b45699487846714de525c735e",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.10.1"
     },
     {
